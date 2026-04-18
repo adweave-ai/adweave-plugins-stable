@@ -19,7 +19,7 @@ In Cowork / Claude Desktop: browse plugin marketplaces and add `adweave-ai/adwea
 
 | Plugin | Pinned to |
 |---|---|
-| `adweave` | `adweave-ai/adweave-claude-plugin@v1.0.0` |
+| `adweave` | `adweave-ai/adweave-claude-plugin@v1.0.1` |
 
 ## Upgrading
 
