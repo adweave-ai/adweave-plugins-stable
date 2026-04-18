@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "AdWeave plugin — stable channel (pinned releases). For bleeding-edge see adweave-ai/adweave-claude-plugin.",
-    "version": "1.0.1"
+    "version": "1.1.0"
   },
   "plugins": [
     {
@@ -14,7 +14,7 @@
       "source": {
         "source": "github",
         "repo": "adweave-ai/adweave-claude-plugin",
-        "ref": "v1.0.1"
+        "ref": "v1.1.0"
       },
       "description": "Opinionated B2C SaaS / DTC marketing workflow for Meta Ads via the AdWeave MCP. Ships the daily creative engine, metrics feedback loop, ad launch, creative production, and competitor research as a set of composable skills."
     }
